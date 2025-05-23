@@ -97,7 +97,7 @@ nav a.active {
 footer {
   background-color: #333;
   color: white;
-  
+
   text-align: center;
   padding: 10px 20px;
 
@@ -144,8 +144,9 @@ main {
 }
 
 .price {
-  color: grey;
+  color: rgb(2, 2, 2);
   font-size: 22px;
+  font-weight: 700;
 }
 
 .card button {
@@ -231,12 +232,14 @@ main {
   }
 }
 
-
-
-
-
+.export {
+  color: red;
+}
+.reg {
+  color: blue;
+  font-weight: 700;
+}
 /* about css */
-.bangla-text{
-
+.bangla-text {
   text-decoration: none;
 }
