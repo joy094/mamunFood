@@ -61,7 +61,7 @@ To ensure continuous accessibility and reliability for all stakeholders, this pr
 
 * **2. Vercel Backup Link (Permanent Access):**
     (This link guarantees access even if the primary domain expires)
-    👉 **https://mamun-food-o174x2vw4-joy094s-projects.vercel.app/**
+    👉 **https://mamun-food.vercel.app/**
 
 ---
 
