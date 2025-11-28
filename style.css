@@ -112,11 +112,13 @@ footer p {
   color: #fff;
 }
 footer a {
+  
   color: #06fc37;
   text-decoration: none;
   font-weight: 500;
   transition: color 0.3s ease;
   font-size: large;
+  height: auto;
 }
 main {
   padding: 20px;
