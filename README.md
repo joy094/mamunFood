@@ -46,7 +46,7 @@ You only need a modern web browser (like Chrome, Firefox, or Edge) installed on 
     ```
 2.  Navigate into the project folder:
     ```bash
-    cd mamunFood
+    cd mamun-food
     ```
 3.  Open the `index.html` file in your preferred web browser to view the site.
 
